@@ -1,3 +1,3 @@
 <p align="center">
-  ![Banner Clínica Veterinária](./Banner_clinica_veterin%C3%A1ria.png)
+  <img src="./Banner_clinica_veterin%C3%A1ria.png" alt="Banner Clínica Veterinária" width="100%">
 </p>
